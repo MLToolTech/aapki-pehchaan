@@ -1,0 +1,9 @@
+
+dist/
+build/
+*.spec
+
+**/__pycache__
+backend/key.json
+dist.zip
+Tesseract-OCR/
