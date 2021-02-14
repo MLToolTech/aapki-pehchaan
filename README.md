@@ -1,6 +1,8 @@
-<<<<<<< HEAD
 
 # Aapki Pehchaan
+
+## Demo
+![Watch the video](/assets/Demo.gif)
 
 ## Create an exe
 
@@ -16,6 +18,3 @@
 
  - https://medium.com/@mounirboulwafa/creating-a-single-executable-file-exe-from-a-python-program-abda6a41f74f
 
-=======
-# aapki-pehchaan
->>>>>>> 099bee14176334bc18e5108d4c2a2b3b7bd68956
